@@ -14,4 +14,4 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: nginx
+      - image: asmi25/gitops-app:1
